@@ -978,6 +978,3 @@ The implementation focuses on embedded-system requirements:
 * Explicit compression/reconstruction trade-offs
 
 ---
-
-```
-```
